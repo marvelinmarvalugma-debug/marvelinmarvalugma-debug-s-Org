@@ -1,0 +1,7 @@
+{
+  "name": "ERP Smart Order Bridge",
+  "description": "A high-performance order management application that bridges your administrative ERP with a modern AI-powered interface for sales teams and customers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
